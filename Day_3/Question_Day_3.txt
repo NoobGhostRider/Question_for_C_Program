@@ -1,0 +1,10 @@
+1.WAP to find a greatest number among the two number.
+
+2.WAP to check whether the triangle is valid or not. The triangle is valid if the sum of two sides is greater than the largest of the three sides.
+
+3.WAP to print a area of circle or area of triangle. User will be decide which area he/she want .
+
+4.WAP to take the input as a name , gender and age . check whether he/she is eligible for casting a vote or not as per indian voting system.
+
+5.WAP to calculate the BMI of user and tell the weight status (taking user name input is compuslory).
+    (below 18.5 = underweight , 18.5-24.9= normal weight , 25.0-29.9=over weight , above 30.0 = very over weight)
