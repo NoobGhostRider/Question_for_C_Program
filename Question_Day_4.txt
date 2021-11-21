@@ -1,0 +1,31 @@
+1.Write a C program to check whether a triangle is Equilateral, Isosceles or Scalene.
+
+2.Write a C program to check whether a character is an alphabet, digit or special character.
+
+3.Write a C program to input basic salary of an employee and calculate its Gross salary according to following:
+	Basic Salary <= 10000 : HRA = 20%, DA = 80%
+	Basic Salary <= 20000 : HRA = 25%, DA = 90%
+	Basic Salary > 20000 : HRA = 30%, DA = 95%
+
+4.Write a C program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
+	Percentage >= 90% : Grade A
+	Percentage >= 80% : Grade B
+	Percentage >= 70% : Grade C
+	Percentage >= 60% : Grade D
+	Percentage >= 40% : Grade E
+	Percentage < 40% : Grade F
+
+5.Write a C program to find maximum between three numbers.
+
+6.A library charges a fine for every book returned late. For first 5 days the fine is 50 paise, for 6-10 days fine is one rupee and
+  above 10 days fine is 5 rupees. If you return the book after 30 days your membership will be cancelled. Write a program to
+  accept the number of days the member is late to return the book and display the fine or the appropriate message.
+
+7.Any character is entered through the keyboard, write a program to determine whether the character entered is a capital letter, a small case letter, a digit or a special symbol.
+
+8.WAP to print a area of circle or area of triangle. User will be decide which area he/she want .
+
+9.WAP to take the input as a name , gender and age . check whether he/she is eligible for casting a vote or not as per indian voting system.
+
+10.WAP to calculate the BMI of user and tell the weight status (taking user name input is compuslory).
+    (below 18.5 = underweight , 18.5-24.9= normal weight , 25.0-29.9=over weight , above 30.0 = very over weight).
