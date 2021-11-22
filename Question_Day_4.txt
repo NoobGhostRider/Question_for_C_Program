@@ -21,11 +21,10 @@
   above 10 days fine is 5 rupees. If you return the book after 30 days your membership will be cancelled. Write a program to
   accept the number of days the member is late to return the book and display the fine or the appropriate message.
 
-7.Any character is entered through the keyboard, write a program to determine whether the character entered is a capital letter, a small case letter, a digit or a special symbol.
 
-8.WAP to print a area of circle or area of triangle. User will be decide which area he/she want .
+7.WAP to print a area of circle or area of triangle. User will be decide which area he/she want .
 
-9.WAP to take the input as a name , gender and age . check whether he/she is eligible for casting a vote or not as per indian voting system.
+8.WAP to take the input as a name , gender and age . check whether he/she is eligible for casting a vote or not as per indian voting system.
 
-10.WAP to calculate the BMI of user and tell the weight status (taking user name input is compuslory).
-    (below 18.5 = underweight , 18.5-24.9= normal weight , 25.0-29.9=over weight , above 30.0 = very over weight).
+9.WAP to calculate the BMI of user and tell the weight status (taking user name input is compuslory).
+    (below 18.5 = underweight , 18.5-24.9= normal weight , 25.0-29.9=over weight , above 30.0 = very over weight)
