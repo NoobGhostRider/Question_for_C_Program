@@ -1,0 +1,19 @@
+1. WAP to print a table in reverse order of given number.
+
+2. WAP to sum first 10 natural number using while loop.
+
+3. WAP to sum first 10 natural number using do while loop.
+
+4. WAP to calculate the sum of the number occuring in the table of 8.(consider 8x1 to 8x15 ).
+
+5. WAP to calculate the factorial of a given number using for loop.
+
+6. WAP to print the given pattern.
+   
+   +
+   ++
+   +++
+   ++++
+   +++++
+   ++++++
+
